@@ -1,0 +1,27 @@
+﻿{
+  "locale": {
+    "en-US": {
+      "ï": "õ",
+      "ő": "õ",
+      "Ï": "Õ",
+      "Ő": "Õ"
+    }
+  },
+  "fallback_locale": "en-US",
+  "rm_folders": [
+    "Backdrop",
+    "Battle",
+    "CharSet",
+    "ChipSet",
+    "FaceSet",
+    "GameOver",
+    "Monster",
+    "Movie",
+    "Music",
+    "Panorama",
+    "Picture",
+    "Sound",
+    "System",
+    "Title"
+  ]
+}

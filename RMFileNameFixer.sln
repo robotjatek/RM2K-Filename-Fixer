@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33801.468
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RMFileNameFixer", "RMFileNameFixer\RMFileNameFixer.csproj", "{155F92A3-6799-4343-8E80-9872BFACAABA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RMFilenameFixerTests", "RMFilenameFixerTests\RMFilenameFixerTests.csproj", "{CA759845-32F7-4413-AC52-F60396B0E75A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{155F92A3-6799-4343-8E80-9872BFACAABA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{155F92A3-6799-4343-8E80-9872BFACAABA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{155F92A3-6799-4343-8E80-9872BFACAABA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{155F92A3-6799-4343-8E80-9872BFACAABA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA759845-32F7-4413-AC52-F60396B0E75A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA759845-32F7-4413-AC52-F60396B0E75A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA759845-32F7-4413-AC52-F60396B0E75A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA759845-32F7-4413-AC52-F60396B0E75A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C623B5D-242E-4097-A04C-3D2591F81D4A}
+	EndGlobalSection
+EndGlobal

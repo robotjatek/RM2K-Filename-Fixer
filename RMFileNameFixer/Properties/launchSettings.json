@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "RMFileNameFixer": {
+      "commandName": "Project"
+    },
+    "RestoreMode": {
+      "commandName": "Project",
+      "commandLineArgs": "restore"
+    }
+  }
+}
